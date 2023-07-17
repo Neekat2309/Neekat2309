@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Neekat2309
 - 👀 I’m interested in EDA and Data Analytics
 - 🌱 I’m currently learning Pythn
-
 - 📫 you can reach me at my gmail id neerajpareta034@gmail.com
 
 <!---
